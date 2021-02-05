@@ -1,2 +1,1 @@
-# class-23
-project23
+# Box Class
